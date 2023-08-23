@@ -1,0 +1,14 @@
+.content img {
+    width: 200px;
+}
+
+.item {
+    padding-top: 15px;
+    color: rgb(34, 212, 25);
+}
+
+.item img {
+    width: 80px;
+    height: 70px;
+    border-radius: 30px;
+}

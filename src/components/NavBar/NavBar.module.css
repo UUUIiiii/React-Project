@@ -1,0 +1,43 @@
+.nav {
+    background-color: rgb(40, 26, 54);
+    grid-area: n;
+    padding: 50px;
+}
+
+.item a {
+    color: antiquewhite;
+    text-decoration: none;
+}
+
+.active NavLink {
+    color: white;
+    /* text-decoration: none; */
+}
+
+/* .standart-color {
+    color: purple;
+} */
+
+#name {
+    margin-bottom: 6px;
+}
+
+#messages {
+    margin-bottom: 6px;
+}
+
+#users {
+    margin-bottom: 6px;
+}
+
+#news {
+    margin-bottom: 6px;
+}
+
+#music {
+    margin-bottom: 6px;
+}
+
+#settings {
+    margin-bottom: 6px;
+}

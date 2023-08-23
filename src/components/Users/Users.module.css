@@ -1,0 +1,21 @@
+.usersPhoto {
+    width: 180px;
+    height: 150px;
+}
+
+.container {
+    margin: 20px;
+}
+
+.buttons {
+    margin-top: 20px;
+
+}
+
+.profileName {
+    margin-bottom: 20px;
+}
+
+.selectedPage {
+    font-weight: bold;
+}
